@@ -1,9 +1,10 @@
 # shopping-behavior
+The objective of this project entitled, Shopping Analysis, is to evaluate the shopping behavior of a group, to draw differential information on data presented that represents the changes, differences and anomalies that exist with the data. Discover nuances and evaluate the data in a visually descriptive manner.
 
-Replace all template text `[]` with your own words. Be sure that there is no template text in your `README.md` file before pushing.
+# Observations 
+Overall Observations:
+Visualizations:
+Analytical Interpretations:
+Challenges Encountered:
+Next Actions:
 
-[A quick summary of this project]
-
-## Observations 
-
-[A short write-up of the workflow this project followed, your observations on the visualizations, and interpretations of analyses. Include challenges faced and possible next actions]
