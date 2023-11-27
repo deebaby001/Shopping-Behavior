@@ -1,0 +1,480 @@
+Customer ID,Age,Gender,Item Purchased,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Shipping Type,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+3353,25.0,Female,Jacket,31.59500546693233,Washington,M,Mauve,Fall,4.0,Standard,No,4,Credit Card,Quarterly
+1722,32.0,Female,Handbag,34.15135207375548,Delaware,S,White,Summer,4.0,Standard,No,11,Credit Card,Monthly
+3638,45.0,Male,Handbag,23.929249202177274,Utah,L,Fuchsia,Spring,5.0,Standard,No,3,Credit Card,Quarterly
+3738,34.0,Female,Running Shoes,33.05221581546154,Kentucky,S,Fuchsia,Spring,5.0,Standard,No,2,Credit Card,Quarterly
+2586,35.0,Male,Hoodie,29.422894544804542,Wisconsin,L,Terra cotta,Fall,4.0,Express,No,2,Credit Card,Annually
+2280,31.0,Female,Sunglasses,31.62491258791253,West Virginia,L,Fuchsia,Spring,5.0,Express,No,1,Credit Card,Annually
+1982,56.0,Female,Gloves,30.133872566295462,Michigan,L,Brick red,Winter,4.0,Standard,No,12,Credit Card,Annually
+2114,42.0,Female,Sunglasses,28.85216053714169,Virginia,M,Lavender,Spring,2.0,Standard,No,5,Credit Card,Monthly
+2609,29.0,Male,Socks,26.478229671390853,Mississippi,L,Aubergine,Winter,4.0,Standard,No,13,Credit Card,Monthly
+3246,50.0,Female,Dress,27.930929295771023,Kansas,M,Periwinkle,Summer,5.0,Standard,No,4,Credit Card,Annually
+3736,47.0,Male,T-shirt,35.6318247126098,Massachusetts,L,Fuchsia,Spring,4.0,Standard,No,6,Credit Card,Annually
+3093,59.0,Male,Leggings,29.65332933058636,Utah,L,Ruby Red,Winter,5.0,Express,No,2,Credit Card,Annually
+3755,31.0,Male,Sweater,31.655074499486016,Nebraska,M,Ruby Red,Winter,4.0,Standard,No,3,Credit Card,Bi-Weekly
+2005,30.0,Male,Sunglasses,32.121026275834794,Georgia,L,Baby blue,Summer,2.0,Standard,No,7,Credit Card,Annually
+2417,38.0,Female,T-shirt,32.472114305870136,Nebraska,S,Lavender,Summer,4.0,Standard,No,3,Credit Card,Annually
+3203,21.0,Non-binary,Shorts,22.842739224029664,Wisconsin,L,Lemon yellow,Summer,2.0,Standard,No,15,Credit Card,Annually
+3141,23.0,Male,Gloves,26.853357979586445,Alaska,XL,Mauve,Winter,5.0,Standard,No,11,Credit Card,Monthly
+2725,38.0,Female,Dress,43.4538103637565,Missouri,M,Lavender,Summer,4.0,Standard,No,5,Credit Card,Monthly
+2001,53.0,Female,Dress,35.59855688518048,California,M,Turquoise,Summer,4.0,Standard,No,6,Credit Card,Annually
+3335,29.0,Male,Gloves,33.564008066998774,California,M,Brown,Fall,2.0,Standard,No,1,Credit Card,Quarterly
+3803,19.0,Male,Hoodie,36.540353833569775,Illinois,S,Muted mustard yellow,Winter,5.0,Standard,No,3,Credit Card,Annually
+3896,30.0,Female,T-shirt,32.31053883178541,Virginia,L,Lavender,Spring,1.0,Standard,No,12,Credit Card,Bi-Weekly
+2336,23.0,Female,Sunglasses,39.06815636450797,Idaho,M,Lemon yellow,Summer,5.0,Express,No,9,Credit Card,Monthly
+3798,45.0,Non-binary,Shorts,33.32925704385864,California,M,Black,Fall,4.0,Standard,No,3,Credit Card,Monthly
+2588,50.0,Male,Dress,34.52657083044227,Connecticut,M,Lavender,Spring,4.0,Standard,No,5,Credit Card,Quarterly
+2606,37.0,Male,T-shirt,28.367437778218846,Nevada,M,Muted mustard yellow,Summer,2.0,Express,No,7,Credit Card,Monthly
+3076,37.0,Female,Sweater,23.671008170988827,Utah,XL,Muted mustard yellow,Fall,4.0,Standard,No,5,Credit Card,Weekly
+2980,49.0,Male,Sunglasses,30.639120784521104,Louisiana,L,Pale peach,Spring,4.0,Next Day Air,No,2,Credit Card,Monthly
+2324,33.0,Female,Running Shoes,40.044523742171336,Maryland,L,Periwinkle,Summer,5.0,Standard,No,6,Credit Card,Quarterly
+2159,19.0,Female,Handbag,29.221767976620992,Massachusetts,XL,Fuchsia,Summer,2.0,Standard,No,16,Credit Card,Monthly
+2196,24.0,Female,Leggings,31.63510176974121,New York,M,White,Winter,5.0,Express,No,4,Credit Card,Annually
+2302,58.0,Female,Boots,37.3401368297862,Maine,L,Brick red,Winter,4.0,Standard,No,10,Credit Card,Annually
+2689,45.0,Female,T-shirt,35.61670874036934,West Virginia,XL,Lemon yellow,Summer,4.0,Next Day Air,No,2,Credit Card,Quarterly
+3109,48.0,Female,Pajamas,35.34606960476163,Oregon,M,Muted mustard yellow,Winter,5.0,Standard,No,13,Credit Card,Annually
+2215,20.0,Male,Handbag,23.06266665909253,Idaho,L,Black,Summer,5.0,Next Day Air,No,1,Credit Card,Annually
+2622,44.0,Female,Running Shoes,27.640997030471524,Maine,M,Periwinkle,Summer,5.0,Standard,No,1,Credit Card,Quarterly
+1915,25.0,Male,Shorts,19.927603459330555,Alaska,L,Pale peach,Summer,4.0,Standard,No,4,Credit Card,Quarterly
+3415,21.0,Male,Hoodie,38.1693501023632,Connecticut,M,Black,Winter,5.0,Standard,No,6,Credit Card,Monthly
+1908,32.0,Male,Sunglasses,24.53979787157618,New Mexico,L,Lavender,Summer,1.0,Standard,No,3,Credit Card,Quarterly
+1850,34.0,Female,Scarf,29.7092302760342,New Mexico,M,Fuchsia,Winter,4.0,Standard,No,1,Credit Card,Monthly
+3845,20.0,Male,Sunglasses,35.71074124834623,Montana,S,Baby blue,Summer,4.0,Standard,No,11,Credit Card,Quarterly
+2162,31.0,Male,Dress,23.677315640557808,Washington,S,Pale peach,Spring,4.0,Standard,No,5,Credit Card,Bi-Weekly
+3367,45.0,Female,Running Shoes,30.235221035126788,North Carolina,M,Brown,Summer,4.0,Standard,No,7,Credit Card,Quarterly
+3104,29.0,Male,Jacket,27.303045965424992,Illinois,S,Muted mustard yellow,Winter,5.0,Standard,No,15,Credit Card,Monthly
+2926,50.0,Male,Jacket,35.85428147078736,Illinois,M,Ruby Red,Fall,5.0,Standard,No,10,Credit Card,Annually
+3262,32.0,Female,Running Shoes,33.075367326773005,Rhode Island,L,Baby blue,Spring,2.0,Next Day Air,No,6,Credit Card,Bi-Weekly
+2552,47.0,Male,Sunglasses,27.906078244689127,Minnesota,M,Lavender,Spring,4.0,Standard,No,7,Credit Card,Bi-Weekly
+3186,28.0,Female,Running Shoes,32.51461467860084,Ohio,L,White,Summer,4.0,Express,No,1,Credit Card,Quarterly
+3402,26.0,Male,Leggings,35.06034735330029,Nevada,L,Mauve,Winter,5.0,Standard,No,20,Credit Card,Annually
+3058,51.0,Female,Boots,32.97980924379722,North Carolina,M,Black,Winter,4.0,Standard,No,12,Credit Card,Weekly
+1920,29.0,Female,Running Shoes,32.13484146763228,Virginia,M,Baby blue,Summer,4.0,Express,No,14,Credit Card,Annually
+3247,25.0,Male,Backpack,32.737386042386795,Michigan,M,Aubergine,Fall,5.0,Standard,No,13,Credit Card,Annually
+1833,28.0,Male,Socks,19.76200780215793,Louisiana,M,Burnt orange,Fall,5.0,Standard,No,1,Credit Card,Quarterly
+3287,45.0,Male,Sunglasses,16.873628536862633,Illinois,L,Turquoise,Spring,5.0,Standard,No,7,Credit Card,Quarterly
+2685,20.0,Male,Scarf,30.71379163312676,Washington,M,Brick red,Winter,5.0,Standard,No,1,Credit Card,Annually
+3673,26.0,Female,Sweater,37.24857454056908,New York,S,Burnt orange,Winter,4.0,Standard,No,6,Credit Card,Monthly
+3679,30.0,Female,Sunglasses,22.604009902230608,Texas,S,Fuchsia,Summer,4.0,Standard,No,1,Credit Card,Quarterly
+2195,49.0,Male,Boots,29.00904144240539,Kentucky,M,Aubergine,Winter,4.0,Standard,No,10,Credit Card,Monthly
+2554,34.0,Male,Sweater,33.89884212456443,Vermont,M,Black,Fall,4.0,Next Day Air,No,13,Credit Card,Quarterly
+2712,38.0,Female,Handbag,34.80813862932214,Nebraska,L,Lemon yellow,Summer,5.0,Standard,No,3,Credit Card,Monthly
+2232,27.0,Male,Sweater,25.40325126235862,Utah,M,Aubergine,Fall,4.0,Standard,No,1,Credit Card,Quarterly
+2227,42.0,Male,Boots,35.240084932635725,Missouri,L,Black,Fall,2.0,Standard,No,12,Credit Card,Quarterly
+3440,41.0,Female,Backpack,15.300091040285746,Idaho,M,Black,Winter,4.0,Standard,No,5,Credit Card,Quarterly
+2807,27.0,Female,Socks,26.26714566549676,South Carolina,L,Aubergine,Winter,5.0,Standard,No,7,Credit Card,Quarterly
+3324,36.0,Male,Scarf,34.541838784226734,North Dakota,M,Aubergine,Winter,5.0,Standard,No,1,Credit Card,Monthly
+2450,29.0,Male,Belt,39.179154153415176,Alabama,S,Brown,Fall,4.0,Express,No,2,Credit Card,Monthly
+2850,33.0,Female,Socks,28.25452456812305,New Hampshire,M,Mauve,Fall,2.0,Standard,No,2,Credit Card,Monthly
+2993,31.0,Male,T-shirt,33.83093549355802,North Dakota,M,Periwinkle,Spring,4.0,Standard,No,5,Credit Card,Quarterly
+2736,47.0,Female,Scarf,36.41747044237187,California,M,Terra cotta,Winter,4.0,Standard,No,3,Credit Card,Quarterly
+3480,34.0,Female,Pajamas,22.36094544524364,New York,S,Black,Fall,4.0,Standard,No,7,Credit Card,Quarterly
+1782,57.0,Female,Backpack,38.11306304146123,Iowa,M,Brick red,Fall,5.0,Standard,No,20,Credit Card,Quarterly
+2963,40.0,Male,Sweater,32.90314448759637,California,L,Mauve,Winter,4.0,Standard,No,19,Credit Card,Quarterly
+1948,33.0,Male,Running Shoes,39.93827560967348,New York,M,Turquoise,Spring,2.0,Standard,No,9,Credit Card,Quarterly
+3191,26.0,Male,Dress,30.957114080962054,California,S,Baby blue,Summer,4.0,Standard,No,7,Credit Card,Annually
+2328,36.0,Male,Sweater,32.31441803509192,Alabama,M,Brown,Fall,1.0,Standard,No,7,Credit Card,Monthly
+1949,29.0,Female,Boots,34.028043309200434,Connecticut,L,Lavender,Fall,4.0,Standard,No,4,Credit Card,Monthly
+2939,29.0,Male,Jacket,34.3670847032577,Maine,M,Brown,Winter,5.0,Standard,No,3,Credit Card,Quarterly
+3586,23.0,Female,Jacket,18.068249349242517,New York,XL,Brown,Winter,5.0,Express,No,6,Credit Card,Quarterly
+3243,37.0,Female,Dress,26.77753289584933,Oregon,S,Lemon yellow,Spring,4.0,Standard,No,1,Credit Card,Annually
+2047,28.0,Male,Scarf,17.93021292427258,Oklahoma,M,Ruby Red,Winter,4.0,Standard,No,13,Credit Card,Bi-Weekly
+3702,48.0,Male,Pajamas,35.39363899019097,New Mexico,M,Burnt orange,Fall,5.0,Standard,No,4,Credit Card,Annually
+3825,22.0,Female,Boots,28.6090337998459,Georgia,M,Brick red,Winter,5.0,Express,No,9,Credit Card,Monthly
+3722,47.0,Male,Hoodie,27.559962431505173,Connecticut,L,Brown,Fall,4.0,Standard,No,20,Credit Card,Monthly
+3827,31.0,Female,Running Shoes,22.517249210894548,Montana,M,Turquoise,Summer,5.0,Standard,No,1,Credit Card,Quarterly
+2898,41.0,Male,Handbag,33.80793598809683,Montana,L,Turquoise,Spring,5.0,Standard,No,2,Credit Card,Quarterly
+2862,33.0,Female,Dress,31.276111284040365,Maryland,M,Burnt orange,Fall,4.0,Next Day Air,No,8,Credit Card,Quarterly
+2355,33.0,Male,Scarf,21.974818475775077,Wisconsin,M,Brown,Winter,4.0,Next Day Air,No,6,Credit Card,Monthly
+3433,36.0,Female,Jacket,31.08680193252778,Connecticut,M,Mauve,Fall,4.0,Standard,No,9,Credit Card,Monthly
+2457,35.0,Female,Dress,32.360080208426005,Nebraska,M,Turquoise,Summer,4.0,Standard,No,9,Credit Card,Monthly
+2393,36.0,Female,Shorts,33.81249968783882,Missouri,L,Lemon yellow,Summer,5.0,Standard,No,9,Credit Card,Monthly
+3636,33.0,Male,Running Shoes,34.46695791555127,Colorado,L,Baby blue,Spring,5.0,Standard,No,14,Credit Card,Monthly
+2171,35.0,Female,Sweater,33.23574936001322,South Carolina,M,Muted mustard yellow,Winter,4.0,Standard,No,12,Credit Card,Bi-Weekly
+3369,33.0,Female,Running Shoes,25.63897831004041,Nebraska,M,Pale peach,Summer,4.0,Standard,No,14,Credit Card,Quarterly
+3836,19.0,Female,Sunglasses,32.49123356164221,Pennsylvania,L,Burnt orange,Fall,4.0,Standard,No,1,Credit Card,Bi-Weekly
+2999,46.0,Male,Sweater,24.15592618861912,Alaska,M,Black,Winter,2.0,Express,No,7,Credit Card,Monthly
+2841,20.0,Male,Jacket,33.47400783650785,West Virginia,L,Terra cotta,Winter,4.0,Standard,No,2,Credit Card,Annually
+3142,34.0,Male,Sunglasses,33.05534823245983,Mississippi,S,Black,Fall,5.0,Standard,No,18,Credit Card,Monthly
+1930,33.0,Female,Leggings,36.23326502357638,Hawaii,L,Burnt orange,Winter,5.0,Standard,No,20,Credit Card,Annually
+2944,26.0,Female,Sweater,33.188807797595885,Virginia,M,Ruby Red,Winter,5.0,Express,No,6,Credit Card,Monthly
+1876,22.0,Female,Socks,24.34705525582904,Tennessee,M,Ruby Red,Fall,5.0,Standard,No,8,Credit Card,Bi-Weekly
+2950,24.0,Female,T-shirt,36.19250764989509,Iowa,M,Lavender,Spring,2.0,Next Day Air,No,2,Credit Card,Annually
+2311,22.0,Male,Sunglasses,36.268301071651095,Virginia,M,Periwinkle,Spring,1.0,Standard,No,7,Credit Card,Monthly
+1705,29.0,Female,Pajamas,35.10988023473595,Idaho,M,Ruby Red,Fall,2.0,Standard,No,6,Credit Card,Annually
+2925,25.0,Male,Handbag,36.31385588245071,Rhode Island,L,Baby blue,Summer,4.0,Standard,No,12,Credit Card,Quarterly
+2151,43.0,Female,Shorts,24.402182225120427,Illinois,M,Muted mustard yellow,Summer,4.0,Standard,No,9,Credit Card,Quarterly
+3735,49.0,Male,Sunglasses,25.39126018533215,California,M,Baby blue,Spring,4.0,Express,No,5,Credit Card,Annually
+3612,43.0,Non-binary,Hoodie,27.07081579742232,Washington,M,Terra cotta,Winter,5.0,Standard,No,20,Credit Card,Quarterly
+3270,35.0,Female,T-shirt,33.263762353248225,Ohio,M,White,Summer,4.0,Standard,No,5,Credit Card,Bi-Weekly
+3662,41.0,Female,Shorts,25.29858685092677,Kansas,S,Fuchsia,Summer,4.0,Standard,No,12,Credit Card,Annually
+2723,48.0,Female,Sweater,26.28762677551835,Maine,M,Black,Winter,2.0,Express,No,1,Credit Card,Bi-Weekly
+2680,23.0,Female,Pajamas,45.38086719302491,Montana,S,Brick red,Winter,2.0,Next Day Air,No,10,Credit Card,Monthly
+2718,52.0,Female,Shorts,38.07059939203559,Nebraska,XL,Baby blue,Summer,4.0,Standard,No,11,Credit Card,Quarterly
+3018,19.0,Female,Sweater,34.93686886665813,Wisconsin,S,Ruby Red,Winter,4.0,Standard,No,2,Credit Card,Quarterly
+2402,32.0,Male,Jeans,23.44203965826418,Oregon,M,Brick red,Fall,4.0,Standard,No,10,Credit Card,Quarterly
+3138,49.0,Female,Dress,40.837339149236016,Louisiana,M,Brick red,Fall,2.0,Next Day Air,No,7,Credit Card,Quarterly
+3800,25.0,Male,Shorts,36.53891147454765,Oklahoma,L,Lemon yellow,Spring,5.0,Express,No,20,Credit Card,Quarterly
+2496,31.0,Male,T-shirt,33.75702431749992,Nebraska,XL,Lemon yellow,Summer,2.0,Standard,No,3,Credit Card,Quarterly
+2643,41.0,Female,Dress,35.40246362160854,Iowa,L,White,Summer,5.0,Standard,No,5,Credit Card,Monthly
+3307,20.0,Female,Dress,32.6887243790267,Colorado,L,White,Summer,5.0,Standard,No,20,Credit Card,Quarterly
+1895,32.0,Male,Handbag,31.55496260929433,Arizona,M,Mauve,Fall,5.0,Standard,No,3,Credit Card,Quarterly
+2455,23.0,Female,Handbag,23.43049636659993,Alaska,M,Aubergine,Fall,5.0,Express,No,20,Credit Card,Monthly
+2295,42.0,Male,Socks,24.188052801459143,Maryland,M,Ruby Red,Fall,5.0,Standard,No,1,Credit Card,Quarterly
+2057,50.0,Female,Gloves,23.648943840332723,Minnesota,L,Burnt orange,Winter,1.0,Standard,No,3,Credit Card,Bi-Weekly
+1739,39.0,Female,Leggings,34.29065445805483,Tennessee,M,Brown,Winter,2.0,Standard,No,11,Credit Card,Annually
+2585,38.0,Female,Sunglasses,28.23853968085062,Florida,L,Lavender,Spring,4.0,Standard,No,20,Credit Card,Monthly
+3017,26.0,Male,Sweater,27.894021216137716,Indiana,L,Ruby Red,Fall,2.0,Standard,No,2,Credit Card,Quarterly
+2848,27.0,Male,Jacket,15.591736336324058,Connecticut,L,Black,Fall,1.0,Standard,No,1,Credit Card,Bi-Weekly
+2721,58.0,Male,Sunglasses,29.19164607045077,Maryland,M,Periwinkle,Summer,4.0,Next Day Air,No,20,Credit Card,Quarterly
+1748,20.0,Male,Boots,30.71453734198572,New Hampshire,M,Aubergine,Fall,4.0,Standard,No,20,Credit Card,Quarterly
+3435,38.0,Non-binary,Handbag,28.399280716694992,Ohio,S,Turquoise,Summer,4.0,Standard,No,20,Credit Card,Monthly
+2441,29.0,Male,Sweater,29.80759020714337,Indiana,M,Brown,Winter,5.0,Standard,No,6,Credit Card,Monthly
+1724,30.0,Male,Running Shoes,29.242763905325635,New York,XL,Lavender,Summer,4.0,Express,No,3,Credit Card,Annually
+1981,27.0,Female,Gloves,41.40343546792713,Iowa,M,Black,Winter,4.0,Standard,No,1,Credit Card,Bi-Weekly
+3345,20.0,Female,Sunglasses,29.978609435133865,Washington,XL,White,Summer,5.0,Standard,No,12,Credit Card,Quarterly
+2911,39.0,Male,T-shirt,25.995737134490334,Mississippi,M,Baby blue,Summer,2.0,Express,No,8,Credit Card,Bi-Weekly
+2330,34.0,Female,Boots,24.292742404450436,Nebraska,S,Mauve,Fall,4.0,Standard,No,15,Credit Card,Quarterly
+3050,21.0,Female,Socks,39.31283600764261,Utah,L,Aubergine,Winter,4.0,Standard,No,10,Credit Card,Quarterly
+3644,20.0,Female,Running Shoes,28.465988692012825,Tennessee,XL,Lavender,Spring,2.0,Express,No,9,Credit Card,Monthly
+3761,26.0,Male,Scarf,32.211492153333445,Connecticut,M,Burnt orange,Winter,4.0,Standard,No,5,Credit Card,Monthly
+2705,33.0,Male,Dress,31.40161315768583,Tennessee,L,Baby blue,Summer,5.0,Standard,No,5,Credit Card,Quarterly
+3063,26.0,Male,Shorts,30.28000767106209,California,L,Turquoise,Summer,2.0,Standard,No,13,Credit Card,Quarterly
+3177,64.0,Female,Sunglasses,36.59148323378413,Arkansas,XL,Pale peach,Spring,4.0,Standard,No,20,Bank Transfer,Bi-Weekly
+3501,34.0,Male,T-shirt,30.00269694197208,Oregon,S,Baby blue,Spring,5.0,Standard,No,3,Credit Card,Monthly
+3124,52.0,Male,Dress,36.07553959416034,Iowa,XL,Ruby Red,Fall,4.0,Standard,No,16,Credit Card,Quarterly
+3162,29.0,Female,Gloves,41.54057029465034,Massachusetts,S,Burnt orange,Fall,5.0,Standard,No,11,Credit Card,Quarterly
+2858,20.0,Female,Handbag,37.35118304067838,Utah,S,Baby blue,Summer,5.0,Standard,No,12,Credit Card,Annually
+2372,31.0,Male,Leggings,32.52024647078097,Indiana,M,Brown,Winter,4.0,Standard,No,15,Credit Card,Quarterly
+2361,36.0,Male,Pajamas,26.71097628931089,New York,L,Brick red,Winter,4.0,Standard,No,1,Credit Card,Monthly
+3737,56.0,Male,Boots,26.640960710589223,Idaho,M,Burnt orange,Fall,4.0,Standard,No,20,Credit Card,Monthly
+3424,23.0,Male,T-shirt,33.192073069614075,Massachusetts,M,Fuchsia,Summer,2.0,Standard,No,13,Credit Card,Quarterly
+2937,46.0,Female,Dress,26.61336751777926,Washington,M,Turquoise,Spring,4.0,Standard,No,3,Credit Card,Quarterly
+2545,37.0,Male,Leggings,32.55387798509052,Delaware,M,Black,Winter,2.0,Express,No,8,Credit Card,Quarterly
+2465,33.0,Female,Running Shoes,29.594468773111117,Hawaii,L,Fuchsia,Summer,4.0,Standard,No,20,Credit Card,Quarterly
+1733,26.0,Female,Sweater,33.37127448793256,Rhode Island,S,Terra cotta,Fall,4.0,Standard,No,8,Credit Card,Monthly
+3488,30.0,Male,Sweater,29.05329796383061,West Virginia,L,Terra cotta,Winter,5.0,Express,No,1,Credit Card,Monthly
+2901,23.0,Female,Socks,26.846747952376887,Maryland,XL,Terra cotta,Fall,5.0,Express,No,11,Credit Card,Monthly
+3195,21.0,Female,Sunglasses,32.811350088618624,Maryland,L,Lemon yellow,Spring,4.0,Standard,No,6,Credit Card,Monthly
+2956,22.0,Female,Leggings,18.634807715632057,Vermont,M,Aubergine,Winter,5.0,Standard,No,1,Credit Card,Quarterly
+1854,52.0,Male,Scarf,21.008904608663222,North Dakota,XL,Brick red,Fall,4.0,Standard,No,4,Credit Card,Bi-Weekly
+2676,25.0,Female,Hoodie,30.10291472776347,Virginia,M,Ruby Red,Fall,5.0,Standard,No,4,Credit Card,Quarterly
+1721,29.0,Female,Running Shoes,29.87851147097638,Massachusetts,S,White,Spring,2.0,Next Day Air,No,2,Credit Card,Annually
+3139,32.0,Male,Running Shoes,21.74409273591104,Kentucky,L,Baby blue,Summer,4.0,Standard,No,1,Credit Card,Quarterly
+3581,28.0,Male,Gloves,35.43516758216997,New Hampshire,M,Black,Fall,2.0,Standard,No,8,Credit Card,Bi-Weekly
+3775,42.0,Female,Hoodie,32.64337798656192,Alaska,S,Mauve,Fall,4.0,Standard,No,9,Credit Card,Quarterly
+2008,24.0,Male,Backpack,27.00327299362688,Virginia,M,Burnt orange,Winter,2.0,Standard,No,3,Credit Card,Annually
+2257,43.0,Female,Hoodie,31.132101336953355,California,M,Lemon yellow,Winter,4.0,Standard,No,6,Credit Card,Quarterly
+2062,22.0,Male,Leggings,27.757043533165188,Michigan,S,Muted mustard yellow,Fall,2.0,Next Day Air,No,19,Credit Card,Monthly
+1849,43.0,Female,T-shirt,32.56964930716329,Maine,XL,Turquoise,Summer,4.0,Next Day Air,No,10,Credit Card,Monthly
+1714,31.0,Male,Backpack,30.122034046930445,Missouri,M,Ruby Red,Winter,4.0,Express,No,20,Credit Card,Quarterly
+1678,73.0,Female,Backpack,32.251502508792015,Oregon,L,Black,Winter,2.0,Standard,No,7,Cash,Monthly
+2663,69.0,Male,Sunglasses,27.81470726829369,Nebraska,M,Fuchsia,Spring,4.0,Next Day Air,No,20,Cash,Quarterly
+3613,49.0,Male,Backpack,27.316045537821108,Michigan,M,Muted mustard yellow,Winter,4.0,Standard,No,8,Credit Card,Quarterly
+3006,35.0,Male,Hoodie,23.63491832530552,Alaska,XL,Burnt orange,Winter,2.0,Next Day Air,No,2,Credit Card,Quarterly
+1916,39.0,Male,Pajamas,24.07532499031964,Alabama,M,Brick red,Winter,5.0,Standard,No,3,Credit Card,Quarterly
+2439,35.0,Male,Hoodie,16.27615473827482,Delaware,S,Mauve,Winter,2.0,Next Day Air,No,10,Credit Card,Quarterly
+3003,25.0,Female,Sweater,34.388452858236214,Louisiana,M,Baby blue,Winter,2.0,Standard,No,2,Credit Card,Annually
+3154,24.0,Male,Boots,20.101003932179477,Alabama,L,Aubergine,Winter,5.0,Standard,No,1,Credit Card,Quarterly
+3309,50.0,Male,Pajamas,37.64166831870577,Utah,M,Black,Winter,5.0,Standard,No,17,Credit Card,Quarterly
+3000,30.0,Male,Pajamas,37.61878904061404,New Hampshire,S,Muted mustard yellow,Winter,4.0,Standard,No,11,Credit Card,Quarterly
+2246,29.0,Male,Sweater,21.715260228844954,Delaware,L,Burnt orange,Winter,4.0,Express,No,4,Credit Card,Monthly
+1691,37.0,Female,T-shirt,21.13772965783056,Nevada,M,Periwinkle,Summer,4.0,Standard,No,17,Credit Card,Annually
+3642,30.0,Female,Pajamas,38.16665817412133,New York,M,Pale peach,Winter,5.0,Standard,No,20,Credit Card,Quarterly
+1990,56.0,Female,Boots,22.97056282672426,Maryland,S,Terra cotta,Winter,4.0,Standard,No,13,Credit Card,Monthly
+3407,56.0,Female,Dress,27.64133765147405,Nebraska,M,Black,Fall,4.0,Standard,No,8,Credit Card,Bi-Weekly
+2617,30.0,Male,T-shirt,41.44821821800684,Georgia,XL,Baby blue,Summer,4.0,Standard,No,2,Credit Card,Annually
+2187,28.0,Female,Shorts,39.09552081005795,New Mexico,XL,Lemon yellow,Summer,4.0,Next Day Air,No,2,Credit Card,Monthly
+2849,29.0,Male,Shorts,18.78698392058778,Wisconsin,L,Periwinkle,Summer,1.0,Standard,No,2,Credit Card,Quarterly
+3892,30.0,Female,Running Shoes,24.97336400098172,Colorado,L,Terra cotta,Fall,4.0,Standard,No,6,Credit Card,Bi-Weekly
+3791,33.0,Female,Handbag,24.161187771501275,Alaska,XL,Fuchsia,Summer,4.0,Standard,No,8,Credit Card,Quarterly
+3111,38.0,Male,Sweater,34.6934415674016,Texas,L,Muted mustard yellow,Fall,4.0,Standard,No,4,Credit Card,Annually
+2022,29.0,Female,Handbag,30.50904769299817,Maine,M,Pale peach,Spring,4.0,Standard,No,14,Credit Card,Monthly
+2014,33.0,Male,Running Shoes,36.90360898631727,Virginia,M,Lemon yellow,Summer,4.0,Express,No,20,Credit Card,Quarterly
+3448,43.0,Male,Running Shoes,26.29693293614861,Arkansas,M,Aubergine,Fall,4.0,Standard,No,9,Credit Card,Quarterly
+2528,23.0,Female,T-shirt,31.850750197701693,Illinois,M,Turquoise,Summer,4.0,Standard,No,4,Credit Card,Annually
+3321,52.0,Male,Handbag,29.41784597926584,Illinois,XL,Ruby Red,Fall,5.0,Standard,No,5,Credit Card,Annually
+2527,36.0,Female,Scarf,33.33577246311631,Rhode Island,S,Brown,Fall,5.0,Standard,No,15,Credit Card,Quarterly
+3611,48.0,Male,Dress,34.67241992878048,Texas,XL,Periwinkle,Summer,5.0,Standard,No,9,Credit Card,Annually
+2794,48.0,Female,Sunglasses,33.12589903245277,Massachusetts,M,Pale peach,Spring,2.0,Standard,No,4,Credit Card,Monthly
+3328,48.0,Female,Dress,27.929451201597352,Connecticut,M,Fuchsia,Summer,5.0,Standard,No,14,Credit Card,Quarterly
+3105,18.0,Male,Hoodie,21.113628551214152,Georgia,S,Aubergine,Fall,5.0,Standard,No,13,Debit Card,Annually
+3441,51.0,Female,Scarf,30.72237401378595,Maryland,L,Terra cotta,Fall,4.0,Standard,No,1,Debit Card,Quarterly
+2379,19.0,Male,Leggings,38.26311064256019,New Hampshire,L,Muted mustard yellow,Fall,4.0,Next Day Air,No,17,Debit Card,Weekly
+2004,32.0,Female,Gloves,29.874618086430512,Maine,S,Brick red,Fall,4.0,Standard,No,1,Debit Card,Monthly
+1753,48.0,Male,Hoodie,32.072612917401244,South Dakota,L,Black,Winter,4.0,Standard,No,10,Debit Card,Weekly
+3172,53.0,Male,Dress,33.05986273961111,Tennessee,M,Lemon yellow,Summer,4.0,Standard,No,5,Debit Card,Monthly
+2778,43.0,Male,Hoodie,36.177160422325215,Idaho,M,Fuchsia,Winter,4.0,Standard,No,8,Debit Card,Bi-Weekly
+3464,26.0,Female,Jacket,35.34472971938935,Maine,M,Ruby Red,Fall,5.0,Standard,No,4,Debit Card,Monthly
+2474,49.0,Male,Gloves,33.994816395716065,Arkansas,M,Mauve,Winter,4.0,Express,No,9,Debit Card,Monthly
+2208,62.0,Female,Running Shoes,29.65271060911587,New Mexico,M,Pale peach,Summer,4.0,Standard,No,5,Cash,Quarterly
+3602,28.0,Female,T-shirt,14.805457435936855,North Carolina,M,Lemon yellow,Summer,4.0,Standard,No,2,Debit Card,Bi-Weekly
+2064,20.0,Male,Sunglasses,33.01603771890874,Indiana,M,Muted mustard yellow,Summer,4.0,Next Day Air,No,3,Debit Card,Quarterly
+2072,32.0,Female,Hoodie,24.20706845605768,South Carolina,S,Brick red,Fall,1.0,Standard,No,1,Debit Card,Quarterly
+3592,37.0,Male,Leggings,37.82035696252872,South Dakota,M,Ruby Red,Winter,4.0,Standard,No,13,Debit Card,Annually
+1713,32.0,Male,Boots,27.09599917143337,Illinois,S,Baby blue,Fall,2.0,Standard,No,14,Debit Card,Quarterly
+2779,29.0,Male,Sweater,37.02395266931648,Pennsylvania,L,Muted mustard yellow,Fall,2.0,Standard,No,7,Debit Card,Quarterly
+3753,19.0,Male,Leggings,29.31231656010574,Washington,L,Mauve,Winter,5.0,Express,No,20,Debit Card,Quarterly
+3555,47.0,Male,T-shirt,30.164164319175256,Louisiana,M,Baby blue,Summer,4.0,Standard,No,1,Debit Card,Quarterly
+1983,37.0,Female,T-shirt,35.89711419690647,Kansas,M,Periwinkle,Summer,5.0,Standard,No,4,Debit Card,Quarterly
+3447,24.0,Female,Sweater,32.63523669805118,Louisiana,S,Baby blue,Winter,4.0,Standard,No,1,Debit Card,Quarterly
+2207,46.0,Male,Handbag,31.867439914041995,Illinois,L,Muted mustard yellow,Fall,4.0,Standard,No,20,Debit Card,Quarterly
+2626,36.0,Male,Handbag,29.66449000758777,Colorado,L,White,Spring,5.0,Standard,No,1,Debit Card,Monthly
+3457,44.0,Female,Backpack,37.24286667465316,Texas,M,Brown,Winter,5.0,Standard,No,2,Debit Card,Annually
+3275,30.0,Male,Shorts,29.53845878954502,Oklahoma,M,Pale peach,Spring,4.0,Standard,No,2,Debit Card,Quarterly
+2317,31.0,Male,Jeans,35.48285505525981,Montana,L,Brown,Fall,2.0,Standard,No,17,Debit Card,Annually
+3226,49.0,Male,Handbag,31.43413728929751,New Hampshire,M,Lavender,Spring,2.0,Standard,No,1,Debit Card,Annually
+2423,26.0,Male,Dress,38.3488963001311,Georgia,M,White,Summer,4.0,Standard,No,6,Debit Card,Quarterly
+2320,26.0,Female,Socks,31.73539014012508,Maine,XL,Brick red,Winter,5.0,Standard,No,2,Debit Card,Monthly
+3508,27.0,Male,Socks,24.712160577387223,Colorado,S,Mauve,Fall,1.0,Standard,No,5,Debit Card,Monthly
+2910,28.0,Female,Handbag,41.9409920002434,Louisiana,M,Turquoise,Spring,4.0,Standard,No,18,Debit Card,Annually
+3445,29.0,Female,Hoodie,27.15892772180521,Rhode Island,S,Muted mustard yellow,Winter,1.0,Standard,No,5,Debit Card,Quarterly
+1769,43.0,Male,Socks,37.28415137000111,Nebraska,M,Black,Winter,4.0,Standard,No,1,Debit Card,Quarterly
+3020,40.0,Male,Sunglasses,29.987904368444543,Utah,M,Lemon yellow,Summer,4.0,Next Day Air,No,6,Debit Card,Bi-Weekly
+3751,33.0,Male,Jacket,25.452348512184223,Arizona,M,Burnt orange,Fall,4.0,Standard,No,7,Debit Card,Quarterly
+2631,39.0,Male,Sunglasses,20.76194782139637,Maine,S,Periwinkle,Spring,5.0,Standard,No,3,Debit Card,Annually
+1807,36.0,Female,Jacket,29.58080030624201,Rhode Island,M,Mauve,Fall,2.0,Standard,No,18,Debit Card,Quarterly
+3841,31.0,Non-binary,Pajamas,28.37984919191954,Idaho,M,Muted mustard yellow,Winter,4.0,Standard,No,4,Debit Card,Weekly
+1836,19.0,Female,Hoodie,30.82167457778596,Kentucky,M,Brick red,Winter,5.0,Standard,No,20,Debit Card,Annually
+1742,42.0,Female,Backpack,25.714173146294165,Delaware,XL,Brick red,Winter,4.0,Standard,No,1,Debit Card,Annually
+3254,59.0,Female,Backpack,37.71859672404188,Nebraska,M,Black,Fall,4.0,Standard,No,20,Debit Card,Quarterly
+2060,19.0,Female,Scarf,25.35762372189859,California,XL,Black,Fall,4.0,Standard,No,15,Debit Card,Annually
+3269,32.0,Male,Running Shoes,26.575796189750605,Arkansas,M,Terra cotta,Fall,4.0,Standard,No,2,Debit Card,Monthly
+2206,30.0,Female,Handbag,26.25851109786392,North Dakota,XL,Periwinkle,Summer,4.0,Standard,No,1,Debit Card,Quarterly
+2334,42.0,Male,Running Shoes,25.187103904823665,Kansas,M,Lemon yellow,Spring,4.0,Standard,No,1,Debit Card,Annually
+2745,25.0,Male,Running Shoes,29.889893814195727,Wyoming,M,Lemon yellow,Summer,4.0,Standard,No,4,Debit Card,Quarterly
+2118,38.0,Male,Shorts,27.448906353574618,Colorado,L,White,Summer,4.0,Standard,No,20,Debit Card,Quarterly
+1731,27.0,Male,Sweater,25.842667844801912,Alabama,S,Ruby Red,Fall,4.0,Standard,No,7,Debit Card,Quarterly
+2426,23.0,Male,Pajamas,41.750017285595966,North Dakota,S,Black,Winter,5.0,Standard,No,6,Debit Card,Quarterly
+1761,27.0,Female,Pajamas,30.32942258060851,Minnesota,XL,Lemon yellow,Winter,5.0,Next Day Air,No,1,Debit Card,Bi-Weekly
+2825,27.0,Female,Pajamas,13.85302050681894,Utah,M,Brown,Winter,2.0,Express,No,5,Debit Card,Bi-Weekly
+3575,47.0,Male,Running Shoes,27.72168360874912,New York,M,Periwinkle,Spring,4.0,Standard,No,5,Debit Card,Bi-Weekly
+3621,30.0,Female,Sweater,19.58493768893876,Louisiana,M,Mauve,Fall,2.0,Standard,No,5,Debit Card,Weekly
+2054,21.0,Male,Sunglasses,31.14661013614841,Wyoming,S,Periwinkle,Summer,5.0,Standard,No,11,Debit Card,Quarterly
+1906,26.0,Male,Sunglasses,31.187674190262275,Idaho,M,Fuchsia,Spring,4.0,Standard,No,7,Debit Card,Monthly
+3431,34.0,Male,Hoodie,28.106706586763835,Montana,M,Baby blue,Fall,5.0,Standard,No,6,Debit Card,Monthly
+2669,28.0,Female,Hoodie,22.672683157607292,Texas,M,Turquoise,Fall,4.0,Standard,No,2,Debit Card,Annually
+1688,40.0,Female,Scarf,47.75008167911904,Georgia,S,Muted mustard yellow,Winter,5.0,Standard,No,1,Debit Card,Quarterly
+2943,38.0,Female,Handbag,31.40836706034186,Hawaii,M,Aubergine,Fall,5.0,Standard,No,7,Debit Card,Monthly
+1839,32.0,Male,Hoodie,38.89149200931503,Vermont,L,Aubergine,Winter,5.0,Standard,No,6,Debit Card,Monthly
+2172,23.0,Male,Sweater,19.991466546073102,Missouri,M,Ruby Red,Winter,2.0,Standard,No,20,Debit Card,Quarterly
+3897,44.0,Male,Boots,19.03822959565827,Iowa,L,Black,Winter,4.0,Next Day Air,No,20,Debit Card,Quarterly
+2332,23.0,Male,Scarf,21.47280110103187,Illinois,S,Brick red,Fall,5.0,Express,No,7,Debit Card,Quarterly
+2473,44.0,Female,Dress,29.038226862705876,Utah,M,Turquoise,Spring,4.0,Standard,No,20,Debit Card,Annually
+1704,40.0,Female,Dress,35.62139280564657,California,M,Periwinkle,Summer,5.0,Standard,No,6,Debit Card,Quarterly
+2805,25.0,Female,Running Shoes,27.760169569736988,South Carolina,M,Turquoise,Summer,5.0,Standard,No,2,Debit Card,Annually
+3500,42.0,Female,Dress,29.112422217409605,New Jersey,L,Aubergine,Summer,5.0,Standard,No,20,Debit Card,Quarterly
+2231,36.0,Male,Dress,33.006743016329935,Colorado,S,Periwinkle,Spring,5.0,Standard,No,20,Debit Card,Monthly
+3559,24.0,Male,Gloves,35.157362497316164,Alaska,L,Burnt orange,Winter,2.0,Standard,No,4,Debit Card,Quarterly
+2790,41.0,Female,Sunglasses,37.72438513031942,North Carolina,L,Terra cotta,Spring,4.0,Standard,No,10,Debit Card,Monthly
+3426,24.0,Female,T-shirt,36.72308175953101,Michigan,M,Turquoise,Summer,4.0,Next Day Air,No,19,Debit Card,Monthly
+2890,25.0,Male,Scarf,24.830947405964096,Minnesota,M,Black,Fall,2.0,Standard,No,8,Debit Card,Quarterly
+1842,27.0,Female,Sweater,37.40250831560404,Vermont,L,Brick red,Fall,5.0,Express,No,3,Debit Card,Monthly
+1749,41.0,Female,Hoodie,33.98067638550667,Montana,L,Aubergine,Fall,4.0,Standard,No,1,Debit Card,Quarterly
+2460,34.0,Female,Boots,35.426675410981225,Missouri,L,Lavender,Fall,4.0,Standard,No,11,Debit Card,Quarterly
+1931,38.0,Male,Boots,34.88722479627014,North Carolina,L,Burnt orange,Fall,4.0,Standard,No,3,Debit Card,Annually
+2727,24.0,Male,Gloves,25.923746226651254,Michigan,L,Brown,Fall,5.0,Standard,No,15,Debit Card,Monthly
+1785,25.0,Female,Hoodie,36.76873766740845,Louisiana,L,Brick red,Winter,4.0,Standard,No,3,Debit Card,Annually
+2739,19.0,Female,Jacket,44.68591044257552,Ohio,M,Mauve,Fall,4.0,Standard,No,1,Debit Card,Quarterly
+1686,25.0,Female,Scarf,22.59390411158302,Minnesota,M,Mauve,Fall,2.0,Standard,No,5,Debit Card,Monthly
+3473,31.0,Male,Belt,27.76146948034584,Georgia,S,Brown,Fall,4.0,Standard,No,2,Debit Card,Monthly
+1732,54.0,Male,Boots,26.63477210794777,Idaho,M,Burnt orange,Fall,2.0,Standard,No,3,Debit Card,Quarterly
+2693,59.0,Female,Backpack,41.00137414092083,Washington,XL,Aubergine,Winter,2.0,Standard,No,4,Debit Card,Monthly
+3790,31.0,Female,Hoodie,40.7412308995793,North Dakota,M,Brick red,Winter,5.0,Standard,No,2,Debit Card,Bi-Weekly
+3303,35.0,Female,Socks,37.08564691967031,Alabama,XL,Brick red,Winter,2.0,Standard,No,6,Debit Card,Monthly
+3364,33.0,Male,Scarf,31.203242598560266,California,M,Ruby Red,Fall,2.0,Standard,No,7,Debit Card,Annually
+1814,28.0,Male,Sunglasses,24.937170490405745,Illinois,M,Fuchsia,Summer,5.0,Standard,No,20,Debit Card,Quarterly
+3164,18.0,Male,Sunglasses,36.37364172299984,Nebraska,XL,Lemon yellow,Summer,5.0,Standard,No,13,Debit Card,Bi-Weekly
+2550,45.0,Female,Handbag,28.8148481230672,Virginia,M,Lavender,Summer,4.0,Standard,No,1,Debit Card,Monthly
+2844,37.0,Male,Sweater,38.75484831252656,Ohio,M,Aubergine,Winter,5.0,Standard,No,8,Debit Card,Quarterly
+3671,30.0,Female,T-shirt,17.97746716997136,Vermont,S,Turquoise,Summer,4.0,Standard,No,20,Debit Card,Monthly
+3814,39.0,Male,Socks,36.691089682140976,Georgia,M,Mauve,Winter,4.0,Express,No,13,Debit Card,Monthly
+1953,31.0,Female,Scarf,36.52395711204813,Maryland,L,Brick red,Winter,4.0,Standard,No,10,Debit Card,Annually
+2997,31.0,Female,Running Shoes,33.7620364131771,Utah,M,White,Spring,4.0,Standard,No,15,Debit Card,Quarterly
+2883,33.0,Male,Dress,31.21004563837757,Oklahoma,L,Lemon yellow,Summer,5.0,Standard,No,17,Debit Card,Quarterly
+2322,33.0,Female,Sunglasses,29.94653912918765,Colorado,M,Brown,Fall,5.0,Next Day Air,No,11,Debit Card,Bi-Weekly
+2191,45.0,Female,Shorts,22.61430591082637,Alaska,S,Pale peach,Spring,4.0,Standard,No,1,Debit Card,Bi-Weekly
+1687,32.0,Female,Dress,38.27652356628108,Illinois,L,White,Summer,4.0,Next Day Air,No,6,Debit Card,Quarterly
+3860,25.0,Male,Handbag,39.68492716475636,Mississippi,S,White,Spring,4.0,Express,No,2,Debit Card,Annually
+2544,27.0,Female,Sunglasses,29.46138678330345,West Virginia,L,Terra cotta,Summer,5.0,Standard,No,16,Debit Card,Quarterly
+3518,27.0,Female,Socks,29.100574895098905,Tennessee,M,Muted mustard yellow,Winter,5.0,Standard,No,15,Debit Card,Quarterly
+3591,19.0,Female,Boots,35.30152985171539,South Dakota,M,Brown,Winter,4.0,Standard,No,8,Debit Card,Quarterly
+1823,33.0,Female,Sunglasses,28.86825292120951,Connecticut,S,White,Summer,4.0,Standard,No,1,Debit Card,Quarterly
+3749,33.0,Male,Scarf,29.44562670225916,Delaware,M,Brown,Fall,4.0,Standard,No,2,Debit Card,Monthly
+2451,42.0,Male,Sweater,30.73014273473848,North Carolina,M,Ruby Red,Winter,4.0,Express,No,1,Debit Card,Monthly
+1756,32.0,Male,Sunglasses,30.034859983364733,Delaware,XL,Brick red,Summer,5.0,Standard,No,3,Debit Card,Annually
+2480,42.0,Male,Handbag,26.451191210194573,Kansas,S,Terra cotta,Fall,2.0,Standard,No,7,Debit Card,Monthly
+3554,38.0,Male,Jacket,26.352624132475665,Minnesota,M,Black,Winter,4.0,Standard,No,13,Debit Card,Bi-Weekly
+2497,38.0,Male,Sweater,30.215726652156256,Illinois,S,Black,Winter,5.0,Standard,No,6,Debit Card,Annually
+2279,19.0,Male,Backpack,29.728465825382443,Maryland,M,Brown,Winter,5.0,Standard,No,8,Debit Card,Quarterly
+2902,26.0,Female,Hoodie,35.268302887428504,Alabama,L,Brown,Fall,2.0,Standard,No,10,Debit Card,Annually
+1937,22.0,Male,T-shirt,26.16403112352046,Minnesota,S,Lemon yellow,Summer,4.0,Standard,No,3,Debit Card,Quarterly
+3605,58.0,Non-binary,Running Shoes,29.067419071893585,Louisiana,M,Fuchsia,Summer,4.0,Standard,No,12,Debit Card,Weekly
+2210,54.0,Female,Shorts,35.35051858996029,Utah,XL,Terra cotta,Fall,4.0,Standard,No,1,Debit Card,Quarterly
+3747,29.0,Female,Scarf,25.32358161083077,Idaho,XL,Black,Winter,2.0,Next Day Air,No,13,Debit Card,Monthly
+3094,48.0,Male,Socks,36.10535733665532,Pennsylvania,L,Aubergine,Fall,4.0,Standard,No,10,Debit Card,Quarterly
+3380,30.0,Female,Running Shoes,27.357396525986893,Tennessee,L,Brown,Summer,4.0,Standard,No,20,Debit Card,Quarterly
+2186,33.0,Male,Boots,18.226560903777404,North Carolina,M,Ruby Red,Winter,5.0,Standard,No,3,Debit Card,Quarterly
+3381,19.0,Female,Socks,34.397429307793786,North Dakota,L,Ruby Red,Winter,4.0,Standard,No,4,Debit Card,Weekly
+3174,19.0,Male,Handbag,29.75621951671451,Washington,L,Baby blue,Summer,4.0,Express,No,4,Debit Card,Quarterly
+3371,40.0,Female,Running Shoes,44.562726358903774,Illinois,M,Periwinkle,Spring,2.0,Standard,No,13,Debit Card,Annually
+3419,27.0,Female,Handbag,22.767325413311763,South Carolina,M,Lavender,Summer,5.0,Next Day Air,No,20,Debit Card,Quarterly
+3196,43.0,Female,Sunglasses,17.910395354115614,Missouri,S,Fuchsia,Summer,5.0,Standard,No,1,Debit Card,Annually
+3166,28.0,Male,Boots,25.356855068321885,Hawaii,M,Burnt orange,Fall,4.0,Express,No,20,Debit Card,Quarterly
+2989,42.0,Male,Socks,34.84930793929048,Nevada,S,Mauve,Fall,5.0,Express,No,8,Debit Card,Quarterly
+3567,26.0,Male,Dress,36.94151428562487,Alaska,S,White,Spring,2.0,Express,No,1,Debit Card,Quarterly
+2889,26.0,Female,Leggings,29.683295154861938,Wisconsin,L,Brick red,Winter,5.0,Next Day Air,No,7,Debit Card,Monthly
+1729,30.0,Male,Handbag,28.546834842468098,Wyoming,L,Fuchsia,Summer,5.0,Standard,No,4,Debit Card,Quarterly
+2782,23.0,Male,Hoodie,27.952208735456203,Mississippi,M,Brown,Fall,5.0,Express,No,7,Debit Card,Quarterly
+2383,32.0,Male,Dress,31.5970708505681,California,M,White,Spring,5.0,Standard,No,10,Debit Card,Quarterly
+2884,45.0,Male,Sweater,33.47830409762534,Rhode Island,XL,Black,Fall,5.0,Standard,No,2,Debit Card,Quarterly
+1911,32.0,Female,Jacket,28.41110617367358,New York,S,Terra cotta,Winter,4.0,Express,No,14,Debit Card,Quarterly
+1799,31.0,Male,Dress,28.985689940724782,North Dakota,L,Baby blue,Spring,5.0,Express,No,2,Debit Card,Quarterly
+3757,25.0,Female,Sweater,33.87256153725117,South Carolina,L,Mauve,Fall,4.0,Standard,No,10,Debit Card,Annually
+2976,27.0,Female,Shorts,31.45772287311672,Georgia,XL,Lavender,Summer,5.0,Standard,No,3,Debit Card,Monthly
+3857,26.0,Male,Leggings,21.907968588143824,Virginia,S,Burnt orange,Winter,4.0,Standard,No,6,Debit Card,Bi-Weekly
+2707,44.0,Female,Running Shoes,22.64068516476276,Alabama,S,Lavender,Summer,5.0,Standard,No,4,Debit Card,Quarterly
+2042,47.0,Male,Socks,26.839184565322707,New York,S,Brick red,Fall,2.0,Next Day Air,No,4,Debit Card,Annually
+2873,53.0,Female,Scarf,37.17112100240424,Connecticut,L,Black,Winter,4.0,Standard,No,2,Debit Card,Quarterly
+3851,36.0,Male,Jacket,27.98618027476251,Mississippi,L,Black,Winter,4.0,Standard,No,17,Debit Card,Monthly
+2677,20.0,Female,Jacket,34.25921817715717,Kentucky,M,Turquoise,Winter,4.0,Standard,No,5,Debit Card,Quarterly
+3123,40.0,Female,Shorts,34.51703180057494,Georgia,M,White,Spring,4.0,Standard,No,1,Debit Card,Quarterly
+2619,31.0,Male,Leggings,32.04809207079793,Louisiana,L,Mauve,Winter,4.0,Standard,No,2,Debit Card,Quarterly
+2502,56.0,Female,Gloves,25.401700579360377,West Virginia,M,Mauve,Winter,5.0,Standard,No,1,Debit Card,Monthly
+3438,33.0,Female,Socks,34.30480824838753,Oklahoma,S,Ruby Red,Fall,5.0,Standard,No,20,Debit Card,Annually
+3112,24.0,Male,Sunglasses,27.63480783066342,Kansas,XL,Turquoise,Spring,4.0,Standard,No,5,Debit Card,Quarterly
+3807,18.0,Female,Leggings,34.514958039970175,Missouri,M,Black,Winter,5.0,Standard,No,10,Debit Card,Monthly
+2009,34.0,Female,Hoodie,21.70579336996842,Florida,M,Black,Winter,4.0,Standard,No,14,Debit Card,Monthly
+3148,46.0,Male,Jacket,30.56917725713783,North Dakota,M,Burnt orange,Winter,4.0,Standard,No,6,Debit Card,Quarterly
+3121,37.0,Female,Jacket,23.927078126630214,Louisiana,M,Terra cotta,Fall,4.0,Standard,No,1,Debit Card,Monthly
+3496,26.0,Female,T-shirt,31.745568397724192,Georgia,XL,Lavender,Spring,5.0,Standard,No,5,Debit Card,Quarterly
+2007,33.0,Male,Pajamas,24.338659621459897,New Mexico,S,Black,Winter,4.0,Standard,No,20,Debit Card,Annually
+3716,22.0,Female,Handbag,30.971359445042776,Nebraska,S,Muted mustard yellow,Summer,2.0,Standard,No,1,Debit Card,Bi-Weekly
+2867,45.0,Male,Jacket,34.084458037389226,Connecticut,S,Burnt orange,Winter,4.0,Standard,No,4,Debit Card,Quarterly
+2773,22.0,Male,Leggings,30.6502732455776,Pennsylvania,L,Aubergine,Winter,4.0,Standard,No,15,Debit Card,Quarterly
+1816,39.0,Male,Handbag,30.74003127851116,New Mexico,L,Turquoise,Spring,4.0,Standard,No,3,Debit Card,Annually
+2147,22.0,Male,Shorts,23.384566287710083,Utah,XL,Fuchsia,Spring,4.0,Standard,No,1,Debit Card,Quarterly
+1859,35.0,Female,Running Shoes,32.882865245085966,Maine,S,Turquoise,Summer,4.0,Standard,No,4,Debit Card,Monthly
+2731,44.0,Male,Backpack,29.20623060485944,Wisconsin,M,Aubergine,Winter,4.0,Standard,No,1,Debit Card,Monthly
+2749,34.0,Female,Belt,32.09825048332691,Virginia,L,Burnt orange,Fall,4.0,Standard,No,7,Debit Card,Annually
+2728,31.0,Male,Shorts,33.5934888343372,Colorado,L,White,Spring,2.0,Standard,No,8,Debit Card,Monthly
+1809,34.0,Female,Jacket,40.255614081086605,Tennessee,M,Aubergine,Winter,4.0,Express,No,4,Debit Card,Quarterly
+2015,35.0,Female,Dress,22.208688552934035,Wisconsin,L,Fuchsia,Summer,5.0,Standard,No,18,Debit Card,Annually
+1852,37.0,Female,Boots,34.72281059919,Delaware,S,Fuchsia,Winter,4.0,Next Day Air,No,2,Debit Card,Annually
+2664,23.0,Female,Pajamas,27.13864758378898,Wisconsin,L,Burnt orange,Winter,1.0,Standard,No,14,Debit Card,Bi-Weekly
+1758,40.0,Male,Boots,21.57888402926196,Michigan,L,Black,Winter,4.0,Standard,No,5,Debit Card,Quarterly
+3870,27.0,Male,Leggings,29.57160605833536,Arizona,L,Brick red,Winter,5.0,Standard,No,2,Debit Card,Bi-Weekly
+2524,43.0,Male,Scarf,27.93717409877931,New Jersey,S,Brick red,Winter,5.0,Express,No,1,Debit Card,Monthly
+3723,35.0,Female,Belt,22.023804581817608,Kentucky,XL,Ruby Red,Fall,4.0,Standard,No,19,Debit Card,Quarterly
+3211,40.0,Female,Gloves,30.483176242886213,Nevada,M,Brown,Fall,4.0,Standard,No,6,Debit Card,Quarterly
+2755,48.0,Male,Dress,33.04748949042245,New Jersey,L,Fuchsia,Spring,4.0,Express,No,7,Debit Card,Annually
+3075,51.0,Male,Sunglasses,38.3726665139444,Massachusetts,L,Fuchsia,Summer,4.0,Standard,No,3,Debit Card,Annually
+2729,44.0,Female,Leggings,36.25794437369195,Florida,M,Mauve,Winter,4.0,Standard,No,14,Debit Card,Quarterly
+3743,38.0,Male,Leggings,34.48059200918813,Maryland,M,Muted mustard yellow,Winter,4.0,Standard,No,3,Debit Card,Monthly
+2264,31.0,Female,Handbag,28.898955817687085,Indiana,XL,Baby blue,Spring,4.0,Standard,No,13,Debit Card,Quarterly
+3188,29.0,Female,Backpack,20.328007189715414,Texas,L,Black,Winter,5.0,Standard,No,1,Debit Card,Quarterly
+3241,36.0,Male,T-shirt,30.460025823747888,West Virginia,M,Periwinkle,Summer,4.0,Next Day Air,No,1,Debit Card,Monthly
+3633,19.0,Male,Scarf,20.30215815328985,Utah,L,Mauve,Winter,4.0,Express,No,20,Debit Card,Quarterly
+3468,22.0,Male,Backpack,27.87413200067365,Texas,M,Black,Fall,2.0,Standard,No,1,Debit Card,Monthly
+2903,20.0,Male,Socks,25.47697352996873,North Carolina,S,Black,Fall,4.0,Standard,No,5,Debit Card,Monthly
+3312,46.0,Male,Dress,37.16053110046597,Florida,L,Turquoise,Summer,5.0,Standard,No,16,Debit Card,Annually
+2260,26.0,Male,T-shirt,29.55310560890702,Florida,XL,Lavender,Summer,5.0,Standard,No,17,Debit Card,Bi-Weekly
+2430,34.0,Male,Hoodie,25.610130293945392,Virginia,XL,Burnt orange,Winter,4.0,Standard,No,2,Debit Card,Quarterly
+2002,31.0,Female,Backpack,28.80823798274661,Wyoming,S,Black,Fall,4.0,Next Day Air,No,2,Debit Card,Quarterly
+3664,20.0,Male,Scarf,44.08311564996989,Florida,M,Black,Winter,2.0,Standard,No,3,Debit Card,Annually
+3525,28.0,Male,Gloves,31.97244299643077,Michigan,L,Muted mustard yellow,Fall,5.0,Standard,No,1,Debit Card,Quarterly
+2776,30.0,Male,Gloves,39.73519978582797,Montana,L,Pale peach,Winter,5.0,Express,No,20,Debit Card,Annually
+3597,24.0,Female,Sunglasses,29.05289357364401,South Carolina,M,Lemon yellow,Fall,5.0,Standard,No,1,Debit Card,Bi-Weekly
+2688,29.0,Female,Socks,38.33024389769499,Delaware,M,Ruby Red,Winter,4.0,Standard,No,8,Debit Card,Quarterly
+3318,26.0,Male,Running Shoes,30.106176589733348,North Carolina,XL,Burnt orange,Fall,4.0,Standard,No,4,Debit Card,Annually
+1817,25.0,Female,Jacket,29.860782035827548,Virginia,M,Black,Fall,2.0,Next Day Air,No,16,Debit Card,Quarterly
+3456,27.0,Male,Dress,31.2132725885089,Ohio,M,Fuchsia,Spring,4.0,Standard,No,4,Debit Card,Monthly
+1880,54.0,Male,Scarf,35.243360488233336,Tennessee,L,Ruby Red,Winter,4.0,Standard,No,1,Debit Card,Annually
+3095,38.0,Male,T-shirt,29.221645188099902,Georgia,M,Mauve,Fall,4.0,Standard,No,19,Debit Card,Bi-Weekly
+3126,41.0,Male,Sweater,25.831301612690588,Oregon,L,Burnt orange,Winter,5.0,Next Day Air,No,11,PayPal,Quarterly
+2829,37.0,Male,Hoodie,28.12571746513936,Tennessee,L,Brown,Fall,4.0,Standard,No,4,PayPal,Bi-Weekly
+3376,55.0,Female,Boots,25.7834767540199,Connecticut,XL,Black,Winter,5.0,Standard,No,7,PayPal,Monthly
+2019,44.0,Male,Boots,33.69804199112478,Arkansas,S,Terra cotta,Winter,5.0,Standard,No,3,PayPal,Bi-Weekly
+2115,36.0,Male,Gloves,28.225873760888028,Vermont,M,Aubergine,Fall,1.0,Standard,No,3,PayPal,Quarterly
+2217,56.0,Female,Hoodie,31.477565682135516,Vermont,XL,White,Fall,4.0,Express,No,8,PayPal,Bi-Weekly
+1932,28.0,Male,Leggings,35.84437576358673,Illinois,S,Burnt orange,Winter,4.0,Standard,No,3,PayPal,Monthly
+2304,41.0,Female,Handbag,37.67901684858517,New Jersey,S,Brown,Fall,2.0,Standard,No,4,PayPal,Quarterly
+1711,32.0,Male,Boots,19.88576942699418,Arkansas,XL,Muted mustard yellow,Winter,5.0,Standard,No,20,PayPal,Monthly
+2697,26.0,Female,Scarf,38.15375489771378,South Dakota,M,Brown,Winter,4.0,Express,No,4,PayPal,Bi-Weekly
+3279,18.0,Female,Running Shoes,23.40823077414372,Montana,M,Pale peach,Spring,4.0,Express,No,3,PayPal,Annually
+2877,20.0,Female,Sunglasses,36.59390176701709,New Mexico,M,Baby blue,Summer,4.0,Next Day Air,No,4,PayPal,Quarterly
+3727,29.0,Male,Pajamas,24.888511320798813,Idaho,XL,Burnt orange,Winter,2.0,Standard,No,20,PayPal,Annually
+2686,38.0,Female,Running Shoes,30.191152595883946,Virginia,M,Fuchsia,Summer,5.0,Standard,No,12,PayPal,Annually
+3704,30.0,Female,Pajamas,28.81756872800005,Michigan,S,Black,Fall,4.0,Express,No,1,PayPal,Monthly
+3308,33.0,Female,Sweater,32.03267211216896,Pennsylvania,S,Burnt orange,Winter,4.0,Next Day Air,No,5,PayPal,Annually
+3689,33.0,Male,Shorts,37.98761295110928,West Virginia,L,Baby blue,Summer,4.0,Standard,No,20,PayPal,Annually
+1867,32.0,Male,Running Shoes,33.756802726894975,Alaska,XL,Lavender,Spring,5.0,Standard,No,16,PayPal,Monthly
+2447,33.0,Female,Handbag,23.85291406494487,Alaska,L,Ruby Red,Fall,5.0,Standard,No,9,PayPal,Annually
+3153,39.0,Female,Sunglasses,33.259423897120485,North Carolina,M,Periwinkle,Summer,2.0,Standard,No,10,PayPal,Quarterly
+3404,44.0,Male,Shorts,20.940844822566323,Illinois,M,Lavender,Summer,4.0,Standard,No,17,PayPal,Monthly
+3557,31.0,Female,Handbag,30.707877966293708,Arizona,M,Brown,Fall,4.0,Standard,No,17,PayPal,Quarterly
+3837,20.0,Female,Gloves,20.8708324571974,Alaska,M,Muted mustard yellow,Fall,4.0,Standard,No,11,PayPal,Annually
+2382,19.0,Female,Shorts,25.643464306597696,Wisconsin,M,Baby blue,Summer,4.0,Standard,No,6,PayPal,Annually
+3286,31.0,Male,Sunglasses,32.15950154205938,Hawaii,XL,Pale peach,Spring,4.0,Standard,No,6,PayPal,Quarterly
+3362,31.0,Female,Dress,24.500043632667957,Florida,M,Lemon yellow,Spring,4.0,Standard,No,5,PayPal,Quarterly
+2698,38.0,Female,Socks,28.937433832471115,Delaware,L,Muted mustard yellow,Fall,5.0,Standard,No,12,PayPal,Monthly
+2536,32.0,Male,Shorts,29.53075267998072,Vermont,S,Terra cotta,Spring,4.0,Express,No,6,PayPal,Monthly
+1726,44.0,Male,Socks,43.10733445321642,Massachusetts,M,Brown,Fall,5.0,Standard,No,10,PayPal,Bi-Weekly
+3107,58.0,Female,Gloves,25.659737446209533,Alabama,M,Ruby Red,Winter,4.0,Next Day Air,No,12,PayPal,Quarterly
+2954,24.0,Male,Belt,41.71578662605225,Maryland,M,Terra cotta,Fall,4.0,Standard,No,11,PayPal,Annually
+3553,35.0,Male,Socks,26.0216833049998,Kentucky,M,Baby blue,Winter,5.0,Standard,No,9,PayPal,Quarterly
+3795,51.0,Male,Dress,23.304992062157297,South Dakota,M,White,Spring,4.0,Standard,No,2,PayPal,Monthly
+3588,22.0,Female,Backpack,27.81514531808392,Virginia,S,Terra cotta,Winter,4.0,Next Day Air,No,3,PayPal,Monthly
+2029,29.0,Male,Running Shoes,27.379144510206288,Ohio,XL,Aubergine,Spring,4.0,Standard,No,20,PayPal,Quarterly
+2748,44.0,Female,Socks,19.633355258455133,West Virginia,M,Burnt orange,Winter,4.0,Standard,No,19,PayPal,Monthly
+3070,47.0,Male,T-shirt,37.51828348295888,Delaware,L,Periwinkle,Summer,5.0,Standard,No,1,PayPal,Quarterly
+3249,31.0,Female,Socks,17.56493108416929,Pennsylvania,S,Terra cotta,Winter,4.0,Standard,No,9,PayPal,Quarterly
+1826,53.0,Male,Scarf,26.39209047596801,South Dakota,M,Brick red,Fall,4.0,Next Day Air,No,2,PayPal,Bi-Weekly
+3297,50.0,Male,Sunglasses,25.57868091905255,Alaska,M,White,Summer,4.0,Express,No,1,PayPal,Annually
+3078,19.0,Male,Shorts,35.0736918036462,Illinois,S,Pale peach,Spring,5.0,Standard,No,14,PayPal,Annually
+2492,33.0,Male,Gloves,29.80518006569209,North Carolina,M,Brick red,Fall,1.0,Standard,No,11,PayPal,Monthly
+1783,45.0,Female,Socks,33.735355048017084,Utah,M,Aubergine,Winter,4.0,Standard,No,3,PayPal,Monthly
+3087,32.0,Female,Gloves,24.71685074211512,Utah,M,Mauve,Winter,4.0,Standard,No,15,PayPal,Monthly
+3721,47.0,Female,Running Shoes,40.13523089758265,South Carolina,M,Baby blue,Spring,4.0,Standard,No,7,PayPal,Bi-Weekly
+3844,23.0,Male,Dress,23.689102817712488,Georgia,L,Lemon yellow,Summer,4.0,Standard,No,20,PayPal,Monthly
+3344,28.0,Male,T-shirt,28.10589982253462,Kentucky,XL,Fuchsia,Spring,5.0,Standard,No,3,PayPal,Monthly
+2719,40.0,Female,Handbag,27.396968271010085,Virginia,M,Periwinkle,Summer,4.0,Standard,No,8,PayPal,Annually
+3705,31.0,Female,Gloves,25.40873954896967,Missouri,L,Burnt orange,Winter,4.0,Standard,No,10,PayPal,Quarterly
+1927,50.0,Non-binary,Shorts,22.447163791462167,New Mexico,M,Pale peach,Spring,5.0,Standard,No,6,PayPal,Monthly
+3072,39.0,Female,Leggings,31.528637628351312,New Hampshire,L,Brick red,Winter,4.0,Standard,No,20,PayPal,Monthly
+2212,19.0,Male,Sunglasses,28.25010935437327,Maine,L,Fuchsia,Summer,4.0,Standard,No,20,PayPal,Quarterly
+3236,42.0,Male,Socks,37.37404118314812,Kansas,M,Terra cotta,Winter,4.0,Standard,No,18,PayPal,Quarterly
+1922,40.0,Female,Gloves,25.90944050018749,Michigan,M,Black,Winter,4.0,Standard,No,1,PayPal,Weekly
+2751,25.0,Female,Sunglasses,36.52870600933802,Alaska,L,Pale peach,Summer,4.0,Standard,No,13,PayPal,Monthly
+2927,34.0,Female,Leggings,34.42914354354309,Maryland,M,Mauve,Winter,2.0,Express,No,20,PayPal,Annually
+2487,24.0,Female,Sweater,25.77325998164182,Texas,L,Brown,Winter,5.0,Standard,No,2,PayPal,Quarterly
+2341,18.0,Male,T-shirt,25.942125997564595,Delaware,M,Lavender,Spring,5.0,Standard,No,9,PayPal,Quarterly
+3674,27.0,Male,Jacket,29.805062693678824,Rhode Island,M,Black,Fall,2.0,Next Day Air,No,16,PayPal,Weekly
+1885,29.0,Male,Backpack,28.43482733959728,Arizona,S,Black,Winter,4.0,Express,No,2,PayPal,Annually
+3676,34.0,Female,Boots,30.313908868216306,Virginia,M,Aubergine,Fall,4.0,Standard,No,6,PayPal,Quarterly
+2305,32.0,Male,Sweater,21.44257595848901,Louisiana,L,Muted mustard yellow,Fall,2.0,Standard,No,2,PayPal,Quarterly
+1986,48.0,Male,Boots,29.28771245869964,Tennessee,M,Brick red,Winter,4.0,Standard,No,4,PayPal,Quarterly
+3131,36.0,Male,Gloves,36.66722452463268,Vermont,M,Burnt orange,Winter,5.0,Standard,No,7,PayPal,Quarterly
+2888,36.0,Female,Dress,42.117970283050624,Kentucky,L,Brick red,Summer,4.0,Standard,No,2,PayPal,Quarterly
+2812,47.0,Male,Handbag,23.101539499536987,Ohio,M,Brown,Fall,4.0,Standard,No,1,PayPal,Monthly
+3877,33.0,Female,Running Shoes,40.74531747962445,Wisconsin,S,Baby blue,Spring,4.0,Standard,No,1,PayPal,Quarterly
+3460,53.0,Male,Pajamas,31.59064167356136,Ohio,L,Black,Winter,1.0,Standard,No,9,PayPal,Monthly
+1715,38.0,Female,Shorts,27.230492807227364,South Dakota,S,Periwinkle,Summer,4.0,Standard,No,12,PayPal,Quarterly
+2411,56.0,Male,Shorts,36.50903917845525,Wisconsin,M,Fuchsia,Spring,5.0,Standard,No,9,PayPal,Quarterly
+2758,58.0,Female,Running Shoes,35.360346083009205,Delaware,XL,Turquoise,Spring,4.0,Standard,No,20,PayPal,Monthly
+2973,40.0,Female,Shorts,20.718501321500277,New York,S,Lemon yellow,Summer,4.0,Next Day Air,No,20,PayPal,Quarterly
+2571,25.0,Male,Gloves,27.992331122146865,New Mexico,XL,Brown,Winter,4.0,Standard,No,3,PayPal,Quarterly
+2021,18.0,Male,Dress,36.15216582352559,Pennsylvania,M,Fuchsia,Summer,5.0,Standard,No,2,PayPal,Quarterly
+2967,45.0,Female,Sweater,27.41504951884521,Oklahoma,L,Mauve,Winter,5.0,Standard,No,1,PayPal,Quarterly
+3030,29.0,Female,Socks,33.36968908435561,Georgia,M,Muted mustard yellow,Fall,5.0,Next Day Air,No,8,PayPal,Bi-Weekly
+3097,27.0,Male,Leggings,20.98979673833701,Kansas,L,Ruby Red,Winter,5.0,Standard,No,2,PayPal,Monthly
+2675,32.0,Female,Running Shoes,34.709509573786164,Florida,S,Lavender,Summer,5.0,Standard,No,11,PayPal,Quarterly
+2547,19.0,Male,Running Shoes,29.65040109792827,Texas,L,Baby blue,Spring,4.0,Standard,No,3,PayPal,Monthly
+3482,22.0,Male,Pajamas,31.79921282362894,Ohio,S,Turquoise,Winter,4.0,Standard,No,9,PayPal,Quarterly
+3011,20.0,Female,T-shirt,31.34678524562436,Ohio,M,Lemon yellow,Spring,1.0,Standard,No,1,PayPal,Quarterly
+2515,32.0,Female,Shorts,35.94781255380525,Alaska,L,Lemon yellow,Spring,5.0,Next Day Air,No,12,PayPal,Quarterly
+3547,35.0,Female,Shorts,36.61120516740874,Kansas,M,White,Summer,2.0,Express,No,2,PayPal,Quarterly
+2043,29.0,Male,Shorts,25.227779275474838,Alabama,M,Fuchsia,Spring,5.0,Next Day Air,No,7,PayPal,Monthly
+2388,27.0,Male,Backpack,34.595718055597224,Tennessee,M,Ruby Red,Winter,4.0,Standard,No,3,PayPal,Quarterly
+2557,38.0,Male,T-shirt,35.62259611027866,Montana,XL,Pale peach,Summer,4.0,Standard,No,5,PayPal,Quarterly
+2464,59.0,Male,Handbag,36.96449421858262,Mississippi,XL,White,Summer,5.0,Standard,No,3,PayPal,Annually
